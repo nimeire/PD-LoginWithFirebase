@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578613307213",
+    "project_id": "appkotlin-79740",
+    "storage_bucket": "appkotlin-79740.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578613307213:android:565a630f2850264ecb7904",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.appkotlinfatec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGr7u6dhxgrhcqe_ro23SId3ZG1BIMMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
